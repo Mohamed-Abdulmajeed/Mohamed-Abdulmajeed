@@ -1,22 +1,32 @@
-# 👋 Hi, I'm Mohamed Abdelmajeed
+<div align="center">
+
+# 👋 Hi, I'm **Mohamed Abdelmajeed**
 💻 **Full Stack .NET & Angular Developer** | 🧠 Crafting Modern, Scalable, & High-Performance Web Applications
 
 ---
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&width=600&lines=Full+Stack+%2ENET+%26+Angular+Developer;Building+Scalable+Web+Applications;Clean+Architecture+%26+Best+Practices)
 
 ---
-
-## 🚀 About Me
-🌟 Passionate about building robust, secure, and high-performance web apps using the latest .NET and Angular technologies.
-💡 Focus on clean architecture, maintainable code, and delivering real business value.
-🎯 Always learning new tools, design patterns, and best practices.
-🤝 Open for freelance projects, collaborations, and full-time opportunities.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90"/>
 
 ---
 
-## 🛠 Tech Stack & Skills
+### 🚀 About Me
+🌟 Passionate about building robust, secure, and high-performance web apps using the latest **.NET** and **Angular** technologies.  
+💡 Focus on clean architecture, maintainable code, and delivering real business value.  
+🎯 Always learning new tools, design patterns, and best practices.  
+🤝 Open for freelance projects, collaborations, and full-time opportunities.  
+
+---
+
+### 🧰 Tech Stack
+
+#### 💼 Back-End Development
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?logo=dotnet&logoColor=white&style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-68217A?logo=dotnet&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 
 ### 🌐 Front-End Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,11 +42,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 💼 Back-End Development
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
+#### 🧩 Others
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 
 ### 🧩 Tools & Utilities
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -62,23 +72,25 @@
 - Problem Solving | Analytical Thinking  
 
 ---
+---
 
-## 🚀 Featured Projects
-🔹 **NutriGuide – Health & Fitness App**  
-Angular 21, ASP.NET Core 10, EF Core, SQL Server  
-[View Project](https://nutri-guide-olive.vercel.app/login)
+### 📊 GitHub Stats
 
-🔹 **CineVue – Movie Discovery App**  
-Angular 21, Firebase, REST API  
-[View Project](https://github.com/Mohamed-Abdulmajeed/MovieApp)
+![Mohamed Abdulmajeed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Abdulmajeed&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mohamed-Abdulmajeed&layout=compact&theme=radical&hide_border=true)
 
 ---
 
+### 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-Abdulmajeed&theme=radical&no-frame=true&margin-w=15)
 
-## 🌐 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdulmajeed&layout=compact&theme=radical)
 
 
+### ✨ Quote That Drives Me
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
+
+---
 ## 📫 Let's Connect
 - ✉️ Email: [mohamed.abdelmajeed.work@gmail.com](mailto:mohamed.abdelmajeed.work@gmail.com)  
 - 📱 Phone: [+20 111 872 6275](tel:+201118726275)  
@@ -87,5 +99,11 @@ Angular 21, Firebase, REST API
 - 🌐 Portfolio: [View Here](https://mohamed-abdelmajeed-portfolio.vercel.app/)  
 - 🐙 GitHub: [Mohamed-Abdulmajeed](https://github.com/Mohamed-Abdulmajeed)
 
----
+
+### 🐍 Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/amralmohamdy/amralmohamdy/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
 
