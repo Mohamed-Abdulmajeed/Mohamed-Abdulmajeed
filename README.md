@@ -22,139 +22,104 @@
 
 ### 🛠️ Top Technical Skills & Tools
 
-<p align="left">
+<p>
   <!-- C# -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=csharp" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" height="60"/>
-  </a> &nbsp;
-
-  <!-- ASP.NET Core -->
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aspnetcore" height="60"/>
-  </a> &nbsp;
-
-  <!-- ASP.NET Core Web API -->
-  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-009999?style=for-the-badge&logo=dotnet&logoColor=white" height="60"/> &nbsp;
-
-  <!-- Entity Framework Core -->
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" height="60"/> &nbsp;
-
-  <!-- LINQ -->
-  <img src="https://img.shields.io/badge/LINQ-007ACC?style=for-the-badge&logoColor=white" height="60"/> &nbsp;
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- Angular -->
   <a href="https://angular.io/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- JavaScript -->
   <a href="https://www.javascript.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/>
   </a> &nbsp;
 
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60"/>
   </a> &nbsp;
 
-  <!-- Postman -->
-  <a href="https://www.postman.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="60"/>
-  </a> &nbsp;
-
-  <!-- Swagger -->
-  <a href="https://swagger.io/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" height="60"/>
-  </a> &nbsp;
-
-  <!-- Git -->
-  <a href="https://git-scm.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="60"/>
-  </a> &nbsp;
-
-  <!-- GitHub -->
-  <a href="https://github.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="60"/>
-  </a> &nbsp;
-
-  <!-- Azure -->
-  <a href="https://azure.microsoft.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" height="60"/>
-  </a> &nbsp;
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vs-code" height="60"/>
-  </a> &nbsp;
-
-  <!-- Visual Studio -->
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vs" height="60"/>
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60"/>
   </a> &nbsp;
 
   <!-- Firebase -->
   <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60"/>
   </a> &nbsp;
 
-  <!-- Generative AI -->
-  <img src="https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logoColor=white" height="60"/> &nbsp;
+  <!-- Postman -->
+  <a href="https://www.postman.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60"/>
+  </a> &nbsp;
 
-  <!-- API -->
-  <img src="https://img.shields.io/badge/API-00BFFF?style=for-the-badge&logoColor=white" height="60"/> &nbsp;
+  <!-- Swagger -->
+  <a href="https://swagger.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="60"/>
+  </a> &nbsp;
 
-  <!-- OOP -->
-  <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge&logoColor=white" height="60"/> &nbsp;
+  <!-- Git -->
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  </a> &nbsp;
 
-  <!-- SOLID -->
-  <img src="https://img.shields.io/badge/SOLID-FF4500?style=for-the-badge&logoColor=white" height="60"/> &nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+  </a> &nbsp;
 
-  <!-- Clean Architecture -->
-  <img src="https://img.shields.io/badge/Clean_Architecture-228B22?style=for-the-badge&logoColor=white" height="60"/> &nbsp;
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60"/>
+  </a> &nbsp;
 
-  <!-- Agile -->
-  <img src="https://img.shields.io/badge/Agile-F0DB4F?style=for-the-badge&logoColor=black" height="60"/> &nbsp;
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+  </a> &nbsp;
 
-  <!-- Soft Skills -->
-  <img src="https://img.shields.io/badge/Soft_Skills-FF8C00?style=for-the-badge&logoColor=white" height="60"/> &nbsp;
-
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60"/>
+  </a> &nbsp;
 </p>
+
 
 ---
 
 ### 📎 CV & Portfolio
 
-<p align="left">
+<p>
   <a href="https://drive.google.com/file/d/1FqMp0tOglZ7FiFTPoQmpKonKsmpcrh_4/view?usp=sharing">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" height="34"/></a> &nbsp;
   <a href="https://mohamed-abdelmajeed-portfolio.vercel.app/">
@@ -165,7 +130,7 @@
 
 ### 📤 Connect & Social Media
 
-<p align="left">
+<p>
   <a href="mailto:mohamed.abdelmajeed.work@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/mohamed-abdelmajeed0">
