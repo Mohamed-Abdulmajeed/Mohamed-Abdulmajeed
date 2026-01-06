@@ -1,9 +1,8 @@
-<div align="center">
-
 # 👋 Hi, I'm **Mohamed Abdelmajeed**
 💻 **Full Stack .NET & Angular Developer** | 🧠 Crafting Modern, Scalable, & High-Performance Web Applications
 
 ---
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&width=600&lines=Full+Stack+%2ENET+%26+Angular+Developer;Building+Scalable+Web+Applications;Clean+Architecture+%26+Best+Practices)
 
 ---
@@ -19,59 +18,56 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Top Technical Skills & Tools
 
-#### 💼 Back-End Development
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?logo=dotnet&logoColor=white&style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-68217A?logo=dotnet&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-
-### 🌐 Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 💾 Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🧩 Others
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
-
-### 🧩 Tools & Utilities
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Angular CLI](https://img.shields.io/badge/Angular_CLI-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://go-skill-icons.vercel.app/api/icons?i=csharp" height="60"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" height="60"/></a>
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/"><img src="https://go-skill-icons.vercel.app/api/icons?i=aspnetcore" height="60"/></a>
+  <a href="https://docs.microsoft.com/en-us/ef/"><img src="https://go-skill-icons.vercel.app/api/icons?i=efcore" height="60"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="60"/></a>
+  <a href="https://angular.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=angular" height="60"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="60"/></a>
+  <a href="https://www.javascript.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="60"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" height="60"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" height="60"/></a>
+  <a href="https://www.postman.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="60"/></a>
+  <a href="https://swagger.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" height="60"/></a>
+  <a href="https://git-scm.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="60"/></a>
+  <a href="https://github.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="60"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=azure" height="60"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vs-code" height="60"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vs" height="60"/></a>
+</p>
 
 ---
 
-## 🧠 Concepts & Best Practices
-- SOLID Principles | Design Patterns | Clean Code  
-- Data Structures & Algorithms | Agile & Scrum | Unit Testing (MS Test)
+### 📎 CV & Portfolio
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1FqMp0tOglZ7FiFTPoQmpKonKsmpcrh_4/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" height="34"/></a> &nbsp;
+  <a href="https://mohamed-abdelmajeed-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" height="34"/></a>
+</p>
 
 ---
 
-## 🤝 Soft Skills
-- Teamwork | Communication | Time Management | Presentation Skills  
-- Problem Solving | Analytical Thinking  
+### 📤 Connect & Social Media
 
----
+<p align="left">
+  <a href="mailto:mohamed.abdelmajeed.work@gmail.com">
+    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-abdelmajeed0">
+    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+  <a href="https://wa.me/201118726275">
+    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
+  <a href="https://github.com/Mohamed-Abdulmajeed">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="50"/></a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -82,28 +78,5 @@
 
 ---
 
-### 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-Abdulmajeed&theme=radical&no-frame=true&margin-w=15)
-
-
-
-### ✨ Quote That Drives Me
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
-
----
-## 📫 Let's Connect
-- ✉️ Email: [mohamed.abdelmajeed.work@gmail.com](mailto:mohamed.abdelmajeed.work@gmail.com)  
-- 📱 Phone: [+20 111 872 6275](tel:+201118726275)  
-- 🌍 Location: Cairo, Egypt  
-- 💼 LinkedIn: [Mohamed Abdelmajeed](https://www.linkedin.com/in/mohamed-abdelmajeed0)  
-- 🌐 Portfolio: [View Here](https://mohamed-abdelmajeed-portfolio.vercel.app/)  
-- 🐙 GitHub: [Mohamed-Abdulmajeed](https://github.com/Mohamed-Abdulmajeed)
-
-
 ### 🐍 Contribution Snake  
 ![Snake animation](https://raw.githubusercontent.com/amralmohamdy/amralmohamdy/output/github-contribution-grid-snake.svg)
-
-</div>
-
-
-
