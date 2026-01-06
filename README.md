@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm **Mohamed Abdelmajeed**
-💻 **Full Stack .NET & Angular Developer** | 🧠 Crafting Modern, Scalable, & High-Performance Web Applications
+💻 **Full Stack .NET & Angular Developer**
 
 ---
 
@@ -64,9 +64,10 @@
   </a> &nbsp;
 
   <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60"/>
-  </a> &nbsp;
+<a href="https://tailwindcss.com/"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" height="60"/>
+</a> &nbsp;
+
 
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server/">
@@ -93,10 +94,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
   </a> &nbsp;
 
-  <!-- GitHub -->
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-  </a> &nbsp;
+ <!-- GitHub -->
+ <a href="https://github.com/">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/> 
+ </a> &nbsp;
 
   <!-- Azure -->
   <a href="https://azure.microsoft.com/">
@@ -136,7 +137,8 @@
   <a href="https://www.linkedin.com/in/mohamed-abdelmajeed0">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
   <a href="https://wa.me/201118726275">
-    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" height="50"/>
+  </a> &nbsp;
   <a href="https://github.com/Mohamed-Abdulmajeed">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="50"/></a>
 </p>
