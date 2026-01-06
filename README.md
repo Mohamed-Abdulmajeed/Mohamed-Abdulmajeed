@@ -2,9 +2,7 @@
 💻 **Full Stack .NET & Angular Developer** | 🧠 Crafting Modern, Scalable, & High-Performance Web Applications
 
 ---
-# 👋 Welcome to my GitHub Profile
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=600&lines=Hello+there!+I'm+Mohamed+Abdelmajeed;Full+Stack+%2ENET+10+%26+Angular+21+Developer;Crafting+Scalable+Web+Apps)
----
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&width=600&lines=Full+Stack+%2ENET+%26+Angular+Developer;Building+Scalable+Web+Applications;Clean+Architecture+%26+Best+Practices)
 
@@ -78,7 +76,7 @@ Angular 21, Firebase, REST API
 
 
 ## 🌐 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdulmajeed&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdulmajeed&layout=compact&theme=radical)
 
 
 ## 📫 Let's Connect
