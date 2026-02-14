@@ -121,7 +121,7 @@
 ### 📎 CV & Portfolio
 
 <p>
-  <a href="https://drive.google.com/file/d/1FqMp0tOglZ7FiFTPoQmpKonKsmpcrh_4/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1C2qvoxdFARiB4Gtpx2qSGUMo0IW6orCw/view?usp=sharing">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" height="34"/></a> &nbsp;
   <a href="https://mohamed-abdelmajeed-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" height="34"/></a>
@@ -132,9 +132,9 @@
 ### 📤 Connect & Social Media
 
 <p>
-  <a href="mailto:mohamed.abdelmajeed.work@gmail.com">
+  <a href="mailto:m7abdelmajeed@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-abdelmajeed0">
+  <a href="https://www.linkedin.com/in/mohammed-abdelmajeed">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
   <a href="https://wa.me/201118726275">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" height="50"/>
